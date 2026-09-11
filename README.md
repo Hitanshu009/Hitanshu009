@@ -1,116 +1,495 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:412991&height=200&section=header&text=Hitanshu%20Mahajan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20RAG%20%26%20LLM%20Systems&descAlignY=55&descSize=18" width="100%"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hey, I'm Hitanshu 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d0620,50:4c1d95,100:1e1b4b&text=HITANSHU%20MAHAJAN&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20LLMs%20%7C%20NLP&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<h3 align="center">I build things that turn "it works in the notebook" into "it works in production."</h3>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer;Generative+AI+%26+LLM+Engineer;NLP+%7C+RAG+%7C+Machine+Learning;Production-Oriented+AI+Systems;Python+%7C+FastAPI+%7C+AWS;Building+Reliable+AI+Products" alt="Typing SVG"/>
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;RAG+%26+LLM+Systems+Builder+%F0%9F%A7%A0;Turning+Research+Into+Real+Products+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<br/>
+
+<a href="https://www.credly.com/">
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
+<a href="https://www.sppu.ac.in/">
+<img src="https://img.shields.io/badge/SPPU-Pune-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/India-Pune-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Hitanshu009">
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/hitanshu-mahajan">
+<img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:hitanshumahajan3@gmail.com">
+<img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Hitanshu009">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hitanshu009&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Hitanshu009?label=FOLLOWERS&style=for-the-badge&color=4C1D95&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Hitanshu009?label=STARS&style=for-the-badge&color=312E81&logo=github" alt="Stars"/>
+
+</div>
 
 ---
 
-## 🧭 The short version
+# About
 
-I'm an **AI/ML Engineer** who lives at the intersection of research and shipping. I'm less interested in "does the model work" and more interested in "does it still work at 3am when 10,000 people are hitting the API" — which is why most of my time goes into **RAG systems, LLM applications, and the unglamorous plumbing (evaluation, retrieval quality, pipelines) that makes AI actually reliable**.
+I’m an **AI/ML Engineer** focused on designing and building production-oriented software systems powered by **Machine Learning, Deep Learning, Natural Language Processing, Generative AI, and Large Language Models**.
 
-Think of it this way: anyone can get a chatbot to answer a question. The interesting problem is getting it to answer *correctly*, *cite its sources*, and *not fall over* when the traffic spikes.
+My engineering approach combines **software engineering principles, AI/ML system design, backend development, API engineering, data processing, model evaluation, and cloud technologies** to turn machine-learning concepts into practical products.
+
+I work across the AI application lifecycle — from **data preparation and model development to inference, retrieval, evaluation, APIs, deployment, and system optimization**.
+
+My current technical interests include **LLM applications, RAG architectures, semantic search, hybrid retrieval, NLP, model evaluation, ML pipelines, FastAPI, REST APIs, and cloud-based AI systems**.
+
+### Engineering Mindset
+
+- Build systems that are **reliable, maintainable, measurable, and production-oriented**
+- Treat AI models as components inside larger software systems
+- Focus on **evaluation, observability, performance, and correctness**
+- Prefer clean APIs, modular architecture, reproducible pipelines, and scalable design
+- Combine AI research concepts with practical software engineering
+- Continuously improve model quality and system efficiency
+
+### Open To
+
+- AI/ML Engineer opportunities
+- Generative AI & LLM engineering
+- NLP and Machine Learning projects
+- RAG and enterprise knowledge systems
+- Backend / AI API engineering
+- Cloud-based AI applications
+- Applied AI/ML research
+- Open-source AI/ML collaboration
 
 ---
 
-## 🔭 What I'm building right now
+# Tech Stack
 
-| Focus | What that actually means |
+### Languages
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql,bash&theme=dark" />
+</a>
+
+</div>
+
+### Frontend
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,svelte&theme=dark" />
+</a>
+
+</div>
+
+### Backend & Databases
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mysql,postgres,redis&theme=dark" />
+</a>
+
+</div>
+
+### Cloud, DevOps & Tooling
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,vscode,jupyter&theme=dark" />
+</a>
+
+</div>
+
+### AI / ML Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-4C1D95?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-312E81?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-3730A3?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4338CA?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-5B21B6?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-4C1D95?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+</div>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Machine Learning | Advanced | Model development, feature engineering, evaluation, optimization |
+| Natural Language Processing | Advanced | Text preprocessing, TF-IDF, classification, semantic understanding |
+| Generative AI | Advanced | LLM applications, prompt engineering, AI application architecture |
+| Large Language Models | Advanced | LLM-powered applications, inference workflows, evaluation |
+| RAG Systems | Advanced | Chunking, embeddings, retrieval, reranking, grounded generation |
+| Deep Learning | Intermediate–Advanced | Neural networks, TensorFlow, PyTorch |
+| Information Retrieval | Advanced | Semantic search, hybrid retrieval, relevance optimization |
+| ML Evaluation | Advanced | Accuracy, Precision, Recall, F1, retrieval evaluation |
+| AI APIs | Advanced | FastAPI, REST APIs, model-serving architectures |
+| Cloud AI | Intermediate–Advanced | AWS-based AI/ML deployment and cloud infrastructure |
+| Data Engineering | Intermediate | Pandas, NumPy, SQL, preprocessing and data pipelines |
+| Computer Vision | Intermediate | Facial recognition and image-based ML applications |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><strong>🧠 Production RAG AI Knowledge Assistant</strong></summary>
+
+<br/>
+
+A production-oriented **Retrieval-Augmented Generation platform** designed to transform enterprise documents into a searchable, citation-aware knowledge system.
+
+| Attribute | Details |
 |---|---|
-| 🧠 **RAG pipelines** | Chunking, embeddings, hybrid retrieval, reranking — the stuff that decides whether your chatbot is useful or just confident |
-| ✨ **LLM applications** | Wiring language models into systems people can actually rely on |
-| 🔎 **NLP & semantic search** | Making unstructured text searchable and structured meaning findable |
-| 📊 **Model evaluation** | Because "it seems good" isn't a metric |
-| ⚙️ **Production AI pipelines** | Python + FastAPI + cloud, built to survive contact with real users |
+| **Stack** | Python, FastAPI, RAG, LLMs, NLP, Vector Search |
+| **Scale** | Modular document ingestion and retrieval architecture |
+| **Performance** | Hybrid retrieval, reranking and evaluation-oriented design |
+| **Security** | API-oriented architecture with controlled document access |
+| **Impact** | Grounded AI answers with source-aware responses |
+| **Repository** | [View Repository](https://github.com/Hitanshu009) |
+
+### Engineering Scope
+
+- Document ingestion and preprocessing
+- Intelligent document chunking
+- Embedding generation
+- Semantic retrieval
+- Hybrid search architecture
+- Retrieval reranking
+- LLM-powered answer generation
+- Source citation and grounding
+- Retrieval and response evaluation
+- FastAPI backend architecture
+- Production-oriented API design
+
+**Core Engineering Focus:**  
+Reliable retrieval, grounded generation, measurable AI quality, modular backend architecture, and production readiness.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>📰 Fake News Detection System</strong></summary>
+
+<br/>
+
+An NLP-based machine-learning system designed to classify news content as **real or fake** using classical machine-learning techniques and measurable evaluation metrics.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python, NLP, TF-IDF, Scikit-learn, SVM |
+| **Scale** | Text classification dataset and complete preprocessing pipeline |
+| **Performance** | Accuracy, Precision, Recall and F1-score evaluation |
+| **Security** | Input preprocessing and controlled classification workflow |
+| **Impact** | Automated misinformation classification |
+| **Repository** | [View Repository](https://github.com/Hitanshu009/Fake-News-Detection) |
+
+### Engineering Scope
+
+- Text cleaning
+- Tokenization and normalization
+- TF-IDF feature extraction
+- Linear-kernel SVM classification
+- Model evaluation
+- Precision / Recall analysis
+- F1-score measurement
+- End-to-end NLP pipeline development
+
+### Research
+
+The project was developed as an undergraduate research project and presented/published through the **International Conference on Engineering and Advanced Technologies (ICEAT 2025)**.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>🤖 University Query Chatbot</strong></summary>
+
+<br/>
+
+A conversational AI application designed to provide structured responses to common university-related questions.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python, NLP, Machine Learning |
+| **Scale** | University-focused conversational query workflow |
+| **Performance** | Optimized response flow for common queries |
+| **Security** | Controlled query-processing architecture |
+| **Impact** | Automated access to frequently requested information |
+| **Repository** | [GitHub Profile](https://github.com/Hitanshu009) |
+
+### Engineering Scope
+
+- Natural-language query processing
+- Intent-oriented response handling
+- Conversational workflow design
+- Structured information retrieval
+- AI-powered user interaction
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>📷 Facial Recognition Attendance System</strong></summary>
+
+<br/>
+
+An AI-powered attendance solution using facial recognition to automate identity verification and attendance recording.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python, Computer Vision, Machine Learning |
+| **Scale** | Automated recognition and attendance workflow |
+| **Performance** | Real-time-oriented recognition pipeline |
+| **Security** | Identity-based attendance workflow |
+| **Impact** | Reduced manual attendance processing |
+| **Repository** | [GitHub Profile](https://github.com/Hitanshu009) |
+
+### Engineering Scope
+
+- Face detection
+- Facial feature processing
+- Identity recognition
+- Automated attendance recording
+- Computer-vision pipeline development
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>🎫 CSMVS AI Chatbot & Ticketing Platform</strong></summary>
+
+<br/>
+
+A web-based conversational and ticketing system combining an AI chatbot with backend services and database integration.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Flask, PostgreSQL, SvelteKit, Python |
+| **Scale** | Full-stack application architecture |
+| **Performance** | API-driven backend and structured database operations |
+| **Security** | Backend-controlled data access |
+| **Impact** | Conversational support and ticketing automation |
+| **Repository** | [GitHub Profile](https://github.com/Hitanshu009) |
+
+### Engineering Scope
+
+- Flask backend development
+- REST API development
+- PostgreSQL integration
+- SvelteKit frontend
+- Conversational workflow
+- Ticket management
+- Full-stack application integration
+
+</details>
 
 ---
 
-## 🚀 Projects worth a look
+# Experience
 
-### 🧠 Production RAG Knowledge Assistant
-A full-stack RAG system — ingestion → chunking → embeddings → hybrid retrieval → reranking → LLM answer generation, complete with source citations and a FastAPI backend built to behave in production, not just in a demo.
-**Stack:** Python · FastAPI · RAG · LLMs · Vector Search
+### AI/ML Engineer — Mid-Size Technology Company
 
-### 📰 Fake News Detection System
-An NLP research project tackling misinformation head-on: TF-IDF feature extraction feeding an SVM classifier, benchmarked on accuracy, precision, recall, and F1. Presented at **ICEAT 2025**.
-**Stack:** Python · NLP · TF-IDF · Scikit-learn · SVM
-🔗 [View Repository](https://github.com/Hitanshu009/Fake-News-Detection)
+**2+ Years Experience**
 
-### 🤖 University Query Chatbot
-An NLP-driven conversational assistant for answering common university queries — quick, structured, no fluff.
-**Stack:** Python · NLP · Machine Learning
+AI/ML engineering experience focused on building practical machine-learning and Generative AI solutions across **LLMs, NLP, model development, backend APIs, evaluation, and production-oriented AI systems**.
 
-### 📷 Facial Recognition Attendance System
-Computer vision meets everyday admin: automated identification and attendance logging, no roll call required.
-**Stack:** Python · Computer Vision · Machine Learning
+#### Scope of Work
 
----
+- Developed and integrated machine-learning models for practical business applications
+- Worked on **Generative AI and LLM-powered applications**
+- Designed NLP pipelines for text processing and intelligent information extraction
+- Built AI application backends using Python and REST APIs
+- Worked with model evaluation and performance optimization
+- Developed retrieval-oriented architectures for knowledge-intensive AI applications
+- Worked with structured and unstructured data processing
+- Integrated AI capabilities into software applications
+- Applied software engineering principles to AI/ML systems
+- Worked with cloud technologies and deployment-oriented workflows
 
-## 🌱 Currently leveling up on
+#### Core Skills
 
-`LLMs` · `Generative AI` · `RAG` · `Vector Databases & Hybrid Retrieval` · `LLM Evaluation` · `FastAPI` · `Cloud AI Deployment`
-
-## 🤝 Let's collaborate if you're into
-
-- Applied AI/ML and Generative AI projects
-- NLP, RAG, and semantic search systems
-- Open-source AI/ML tooling
-- Research that's meant to ship, not just publish
-
-## 🧗 Where I could use a hand
-
-Advanced LLM/RAG architecture, production-grade ML system design, and cloud deployment patterns that scale past "works on my laptop."
+`Python` `Machine Learning` `NLP` `Generative AI` `LLMs` `RAG` `TensorFlow` `PyTorch` `Scikit-learn` `FastAPI` `REST APIs` `SQL` `AWS` `Git`
 
 ---
 
-## 🛠️ Tech Stack
+# Achievements
 
-**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
 
-**AI/ML:** ![ML](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=scikit-learn&logoColor=white) ![DL](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-412991?style=flat-square) ![GenAI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square&logo=openai&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-5C2D91?style=flat-square&logo=databricks&logoColor=white)
+| Recognition | Details |
+|---|---|
+| **ICEAT 2025** | Research publication/presentation related to the Fake News Detection System |
+| **AI/ML Engineering** | 2+ years of hands-on experience across ML, NLP and Generative AI |
+| **Production AI Focus** | Building practical AI systems with APIs, retrieval, evaluation and deployment considerations |
+| **Open Source** | Public AI/ML projects and engineering work available through GitHub |
 
-**Libraries:** ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-**Engineering:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Cloud & Data:** ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hitanshu009&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitanshu009&theme=radical&hide_border=true&layout=compact" width="41%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Hitanshu009&theme=radical&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%" />
-</p>
+</div>
 
 ---
 
-## 📫 Find me
+# Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hitanshu-mahajan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hitanshu009)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hitanshumahajan3@gmail.com)
+### AWS
 
-<p align="center"><i>If you're building something with RAG, LLMs, or NLP and want to compare notes — my inbox is open.</i></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Hitanshu009&icon=0&color=0" alt="visitor count" />
-</p>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Computing-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:412991,100:8A2BE2&height=120&section=footer" width="100%"/>
+</div>
+
+**Cloud Computing (AWS)** — Upskill, 2024
+
+### Red Hat
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Red%20Hat-System%20Administration-4C1D95?style=for-the-badge&logo=redhat&logoColor=white"/>
+
+</div>
+
+**Red Hat System Administration** — Red Hat Academy, 2024
+
+### Palo Alto Networks
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Palo%20Alto%20Networks-Network%20Security-312E81?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
+
+</div>
+
+**Network Security Fundamentals** — Palo Alto Networks, 2024
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=A78BFA" height="45"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="45"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white" height="45"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B21B6?style=for-the-badge&logo=codechef&logoColor=white" height="45"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hitanshu009&show_icons=true&hide_border=true&bg_color=0D0620&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitanshu009&layout=compact&hide_border=true&bg_color=0D0620&title_color=A78BFA&text_color=E9D5FF&langs_count=8" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Hitanshu009&theme=dark&hide_border=true&background=0D0620&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8" width="70%"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hitanshu009&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="90%"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitanshu009&bg_color=0D0620&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Hitanshu009/Hitanshu009/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Large Language Models
+  - Advanced RAG architectures
+  - LLM evaluation
+  - Vector databases
+  - Hybrid information retrieval
+  - Production AI system design
+
+Building:
+  - Production RAG AI Knowledge Assistant
+  - AI-powered backend APIs
+  - NLP and Generative AI applications
+  - Evaluation-driven AI pipelines
+  - Cloud-ready ML systems
+
+Exploring:
+  - Agentic AI
+  - Advanced retrieval systems
+  - AI observability
+  - Model optimization
+  - Scalable AI infrastructure
+  - Enterprise AI architecture
+
+Open To:
+  - AI/ML Engineer roles
+  - Generative AI opportunities
+  - LLM/NLP engineering
+  - RAG and knowledge systems
+  - Backend AI engineering
+  - Open-source collaboration
+  - Applied AI/ML research
