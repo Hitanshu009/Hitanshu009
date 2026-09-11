@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:8B5CF6&height=240&section=header&text=Hitanshu%20Mahajan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20Specialist%20%7C%20Full%20Stack%20Architect&descAlignY=58&descSize=18&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:8B5CF6&height=240&section=header&text=Hitanshu%20Mahajan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20NLP%20%7C%20Generative%20AI%20%7C%20MLOps&descAlignY=58&descSize=18&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=70&lines=Building+production-grade+AI+systems+at+scale;Full+Stack+Engineer+%7C+Cloud+Native+Architect;Designing+secure%2C+high-impact+products;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=70&lines=AI%2FML+Engineer+with+2%2B+years+of+experience;Building+production-grade+NLP+%26+RAG+solutions;Published+NLP+Researcher+%7C+ICEAT+2025;Deploying+ML+models+on+AWS+at+enterprise+scale" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&labelColor=1E1B4B&logo=academia&logoColor=white)
-![M.Tech](https://img.shields.io/badge/M.Tech-Artificial%20Intelligence-7C3AED?style=flat-square&labelColor=1E1B4B&logo=academia&logoColor=white)
+![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Engineering-6D28D9?style=flat-square&labelColor=1E1B4B&logo=academia&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/Specialization-AI%20%2F%20ML-8B5CF6?style=flat-square&labelColor=1E1B4B&logo=tensorflow&logoColor=white)
+![Research](https://img.shields.io/badge/Published-NLP%20Research%20(ICEAT%202025)-7C3AED?style=flat-square&labelColor=1E1B4B&logo=googlescholar&logoColor=white)
 
-![Location](https://img.shields.io/badge/Location-India-4F46E5?style=flat-square&labelColor=1E1B4B&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-6366F1?style=flat-square&labelColor=1E1B4B&logo=statuspage&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Pune%2C%20India-4F46E5?style=flat-square&labelColor=1E1B4B&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Relocate%20to%20Australia-6366F1?style=flat-square&labelColor=1E1B4B&logo=statuspage&logoColor=white)
 
 <br/>
 
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&labelColor=1E1B4B&logo=googlechrome&logoColor=white" />
+<a href="https://github.com/Hitanshu009">
+  <img src="https://img.shields.io/badge/GitHub-Hitanshu009-7C3AED?style=for-the-badge&labelColor=1E1B4B&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/hitanshu-mahajan">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&labelColor=1E1B4B&logo=linkedin&logoColor=white" />
@@ -32,11 +32,11 @@
 
 <div align="center">
 
-**Hitanshu Mahajan** — Senior Software Engineer with deep expertise in **Artificial Intelligence**, **Machine Learning**, and **Full Stack Product Engineering**. I architect and deliver enterprise-grade systems that operate at scale, prioritizing performance, security, and measurable business impact.
+**Hitanshu Mahajan** — AI/ML Engineer with **2+ years of experience** and a **published NLP research paper (ICEAT 2025)**, building and deploying machine learning solutions across **NLP**, **Generative AI**, and **Predictive Modelling**. Skilled in Python, TensorFlow, PyTorch, and Scikit-learn across the full ML lifecycle — from data preprocessing and feature engineering through model development, evaluation, deployment, and monitoring.
 
-My engineering philosophy is rooted in **product thinking** — every line of code is a decision that shapes user experience, system reliability, and long-term maintainability. I specialize in bridging cutting-edge AI research with production-ready software that serves millions.
+I have delivered **production-ready AI applications**, **RAG-based solutions**, and **LLM evaluation workflows** on AWS, with working knowledge of Docker, MLflow, CI/CD, and REST API integration. My engineering approach prioritizes reliability, scalability, and measurable business impact — translating complex business requirements into robust technical solutions.
 
-**Open To:** Senior Software Engineering roles · AI/ML Engineering positions · Technical Leadership opportunities · Open Source Collaborations · Strategic Consulting
+**Open To:** AI/ML Engineering roles · NLP & Generative AI positions · MLOps opportunities · International roles (Australia) · Research Collaborations
 
 </div>
 
@@ -49,46 +49,32 @@ My engineering philosophy is rooted in **product thinking** — every line of co
 **Languages**
 
 ![Python](https://skillicons.dev/icons?i=python)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
 ![Java](https://skillicons.dev/icons?i=java)
-![Go](https://skillicons.dev/icons?i=go)
-![Rust](https://skillicons.dev/icons?i=rust)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=js)
 ![SQL](https://skillicons.dev/icons?i=mysql)
 
-**Frontend**
+**Machine Learning & AI**
 
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Vue](https://skillicons.dev/icons?i=vue)
-![Angular](https://skillicons.dev/icons?i=angular)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Redux](https://skillicons.dev/icons?i=redux)
-![GraphQL](https://skillicons.dev/icons?i=graphql)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
 
 **Backend & Databases**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Django](https://skillicons.dev/icons?i=django)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Spring](https://skillicons.dev/icons?i=spring)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
-![Kafka](https://skillicons.dev/icons?i=kafka)
+![Flask](https://skillicons.dev/icons?i=flask)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![REST API](https://skillicons.dev/icons?i=postman)
 
 **Cloud, DevOps & Tooling**
 
 ![AWS](https://skillicons.dev/icons?i=aws)
-![GCP](https://skillicons.dev/icons?i=gcp)
-![Azure](https://skillicons.dev/icons?i=azure)
 ![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Terraform](https://skillicons.dev/icons?i=terraform)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 ![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Jupyter](https://skillicons.dev/icons?i=jupyter)
 
 </div>
 
@@ -100,12 +86,12 @@ My engineering philosophy is rooted in **product thinking** — every line of co
 
 | Domain | Proficiency | Details |
 |:------:|:-----------:|:--------|
-| **Deep Learning** | Expert | CNNs, RNNs, Transformers, GANs, Diffusion Models — PyTorch, TensorFlow, JAX |
-| **Natural Language Processing** | Expert | LLM fine-tuning, RAG pipelines, Prompt Engineering, BERT, GPT, LLaMA |
-| **Computer Vision** | Advanced | Object Detection, Segmentation, OCR, Real-time Inference — OpenCV, YOLO, Detectron2 |
-| **MLOps & Production ML** | Expert | Model Serving, Feature Stores, Experiment Tracking, CI/CD for ML — MLflow, Kubeflow, SageMaker |
-| **Reinforcement Learning** | Advanced | Policy Gradients, Q-Learning, Multi-Agent Systems — Stable Baselines, Ray RLlib |
-| **Data Engineering** | Advanced | ETL Pipelines, Data Lakes, Streaming — Spark, Airflow, dbt, Kafka |
+| **Machine Learning** | Advanced | TensorFlow, PyTorch, Scikit-learn, XGBoost, OpenCV, Predictive Modelling, Classification |
+| **ML Engineering** | Advanced | Data Preprocessing, Feature Engineering, Model Development, Training Pipelines, Hyperparameter Tuning, Model Evaluation, Error Analysis |
+| **Generative AI** | Advanced | LLMs, RAG, Prompt Engineering, LLM Evaluation, Embeddings, AI Application Development |
+| **NLP** | Expert | TF-IDF, Intent Classification, Text Classification, Embeddings, spaCy |
+| **Cloud & MLOps** | Advanced | AWS, Amazon SageMaker, EC2, Docker, MLflow, CI/CD, Model Deployment, Monitoring, Logging |
+| **Evaluation Metrics** | Advanced | Accuracy, Precision, Recall, F1-score, AUC-ROC, Cross-Validation, Model Benchmarking |
 
 </div>
 
@@ -114,102 +100,62 @@ My engineering philosophy is rooted in **product thinking** — every line of co
 ## Featured Projects
 
 <details>
-<summary><b>NeuralSearch — Enterprise Semantic Search Platform</b></summary>
+<summary><b>Fake News Detection System — Published NLP Research (ICEAT 2025)</b></summary>
 
 <br/>
 
-A production-grade semantic search engine leveraging transformer-based embeddings and vector databases to deliver sub-100ms retrieval across billions of documents. Designed for enterprise knowledge management with role-based access control and multi-tenant isolation.
+An NLP-based fake news classification system leveraging TF-IDF feature extraction with multiple classifiers (SVM, Logistic Regression, Random Forest) to identify misinformation with high precision. Published as a comparative-evaluation research paper at ICEAT 2025.
 
 | Attribute | Detail |
 |:---------:|:-------|
-| **Stack** | Python, FastAPI, PyTorch, FAISS, PostgreSQL, Redis, Docker, Kubernetes |
-| **Scale** | 2B+ documents indexed · 50K QPS peak · Multi-region deployment |
-| **Performance** | P99 latency < 85ms · 99.99% uptime SLA |
-| **Security** | SOC2 Type II · End-to-end encryption · RBAC · Audit logging |
-| **Impact** | Reduced search time by 94% · $4.2M annual operational savings |
-| **Repository** | [github.com/hitanshu-mahajan/neural-search](https://github.com/hitanshu-mahajan/neural-search) |
+| **Stack** | Python, Scikit-learn, NLP, TF-IDF, SVM, Flask |
+| **Scale** | Comparative evaluation of 3 classifiers · Benchmark accuracy 91.5% |
+| **Performance** | 92% accuracy · 91% precision · 90% recall · 0.89 F1-score |
+| **Security** | Input validation · Safe model loading · Sanitized API endpoints |
+| **Impact** | Improved generalisability by 8% · Published at ICEAT 2025 |
+| **Repository** | [github.com/Hitanshu009](https://github.com/Hitanshu009) |
 
-Engineered a custom ANN index sharding strategy that distributes vector search across GPU-accelerated nodes, enabling horizontal scaling without degradation. Implemented a hybrid retrieval pipeline combining dense and sparse representations, improving recall by 37% over baseline BM25.
+Designed and built the complete classification pipeline — from data preprocessing and TF-IDF feature extraction through model training, evaluation, and structured error analysis. The comparative study exposed weaknesses and edge cases across classifiers, informing the published research paper and improving real-world generalisability.
 
 </details>
 
 <details>
-<summary><b>VisionGuard — Real-Time AI Surveillance System</b></summary>
+<summary><b>AI-Powered University Chatbot</b></summary>
 
 <br/>
 
-An edge-optimized computer vision platform for real-time threat detection, deployed across 500+ camera feeds in critical infrastructure environments. Features on-device inference with federated learning for continuous model improvement.
+A conversational AI application designed to handle university queries using NLP-based intent classification and confidence scoring, featuring fallback handling for ambiguous queries to ensure reliable user experience.
 
 | Attribute | Detail |
 |:---------:|:-------|
-| **Stack** | C++, Python, TensorRT, OpenCV, NVIDIA Jetson, MQTT, TimescaleDB |
-| **Scale** | 500+ concurrent streams · 30 FPS per feed · 12 edge clusters |
-| **Performance** | 15ms inference latency · 99.2% detection accuracy |
-| **Security** | Encrypted streams · Tamper-proof logging · Zero-trust architecture |
-| **Impact** | 78% reduction in incident response time · 24/7 autonomous monitoring |
-| **Repository** | [github.com/hitanshu-mahajan/vision-guard](https://github.com/hitanshu-mahajan/vision-guard) |
+| **Stack** | Python, Flask, spaCy, SQLite |
+| **Scale** | Multi-intent classification · Ambiguous query fallback handling |
+| **Performance** | 88% intent classification accuracy · 50% reduction in query resolution time |
+| **Security** | Input sanitization · Safe database queries · Graceful fallback handling |
+| **Impact** | Cut query resolution time by 50% through iterative testing and optimization |
+| **Repository** | [github.com/Hitanshu009](https://github.com/Hitanshu009) |
 
-Developed a custom quantization pipeline that reduced model size by 4x while maintaining 98.7% of original accuracy, enabling deployment on resource-constrained edge devices. Built a federated learning orchestrator that aggregates model updates without exposing raw footage.
+Built an end-to-end conversational pipeline with intent classification, confidence scoring, and fallback logic. Iterative testing and optimization cycles drove continuous improvement in classification accuracy and user experience.
 
 </details>
 
 <details>
-<summary><b>FinFlow — Intelligent Financial Analytics Engine</b></summary>
+<summary><b>Facial Recognition Attendance System</b></summary>
 
 <br/>
 
-A real-time financial analytics and fraud detection platform processing millions of transactions per second. Combines stream processing with ensemble ML models to identify anomalous patterns and predict market movements.
+A real-time facial recognition attendance system built with OpenCV and face recognition libraries, achieving high recognition accuracy with an optimized preprocessing pipeline for fast detection.
 
 | Attribute | Detail |
 |:---------:|:-------|
-| **Stack** | Go, Kafka, Flink, Python, XGBoost, ClickHouse, Grafana, AWS |
-| **Scale** | 5M+ transactions/sec · 200TB daily ingest · 40+ data sources |
-| **Performance** | Sub-10ms fraud scoring · 99.95% precision · 0.01% false positive rate |
-| **Security** | PCI-DSS Level 1 · HSM key management · Real-time anomaly detection |
-| **Impact** | Prevented $18M in fraudulent transactions · 62% faster reporting |
-| **Repository** | [github.com/hitanshu-mahajan/fin-flow](https://github.com/hitanshu-mahajan/fin-flow) |
+| **Stack** | Python, OpenCV, Face Recognition, SQLite |
+| **Scale** | Real-time recognition · Automated attendance logging |
+| **Performance** | 95% recognition accuracy · 40% faster detection |
+| **Security** | Local data storage · Controlled access to attendance records |
+| **Impact** | 40% improvement in detection speed via preprocessing optimization |
+| **Repository** | [github.com/Hitanshu009](https://github.com/Hitanshu009) |
 
-Architected a lambda-style streaming pipeline with exactly-once semantics and automatic backpressure handling. Implemented a novel ensemble approach combining gradient boosting with isolation forests, achieving state-of-the-art fraud detection benchmarks.
-
-</details>
-
-<details>
-<summary><b>CodePilot — AI-Powered Developer Productivity Suite</b></summary>
-
-<br/>
-
-An intelligent IDE extension and CLI tool that accelerates software development through context-aware code generation, automated refactoring, and intelligent test synthesis. Supports 15+ programming languages with deep semantic understanding.
-
-| Attribute | Detail |
-|:---------:|:-------|
-| **Stack** | TypeScript, Rust, WebAssembly, CodeBERT, VS Code API, LSP |
-| **Scale** | 100K+ active developers · 2M+ daily generations · 15 languages |
-| **Performance** | 200ms suggestion latency · 94% acceptance rate · 40% time savings |
-| **Security** | Local-first inference · Zero data retention · SOC2 compliant |
-| **Impact** | 40% reduction in boilerplate code · 3.2x faster test coverage |
-| **Repository** | [github.com/hitanshu-mahajan/code-pilot](https://github.com/hitanshu-mahajan/code-pilot) |
-
-Built a custom transformer model fine-tuned on 50M+ open-source repositories, with a novel retrieval-augmented generation pipeline that injects project-specific context. Implemented a Rust-based inference engine compiled to WebAssembly for cross-platform deployment.
-
-</details>
-
-<details>
-<summary><b>CloudMesh — Multi-Cloud Infrastructure Orchestrator</b></summary>
-
-<br/>
-
-A declarative infrastructure management platform that abstracts multi-cloud complexity, enabling teams to define, provision, and manage resources across AWS, GCP, and Azure from a single control plane.
-
-| Attribute | Detail |
-|:---------:|:-------|
-| **Stack** | Go, Terraform, Pulumi, Kubernetes, gRPC, React, PostgreSQL |
-| **Scale** | 10K+ managed resources · 3 cloud providers · 50+ team workspaces |
-| **Performance** | 99.99% control plane uptime · 30s avg provision time |
-| **Security** | OIDC integration · Encrypted state · Policy-as-code guardrails |
-| **Impact** | 70% reduction in provisioning time · $2.8M cloud cost optimization |
-| **Repository** | [github.com/hitanshu-mahajan/cloud-mesh](https://github.com/hitanshu-mahajan/cloud-mesh) |
-
-Designed a plugin-based provider architecture with a unified resource graph, enabling drift detection and automated remediation. Implemented a policy engine using Open Policy Agent that enforces organizational guardrails before any infrastructure change is applied.
+Engineered the complete system from preprocessing to recognition, focusing on real-time performance. The optimized preprocessing pipeline significantly boosted detection speed while maintaining high recognition accuracy.
 
 </details>
 
@@ -221,9 +167,8 @@ Designed a plugin-based provider architecture with a unified resource graph, ena
 
 | Role | Company | Duration | Highlights |
 |:----:|:-------:|:--------:|:-----------|
-| **Senior Software Engineer** | Fortune 500 Tech Company | 2022 — Present | Led AI platform team · Shipped 3 major products · Mentored 8 engineers |
-| **Software Engineer II** | High-Growth SaaS Startup | 2020 — 2022 | Built real-time ML pipeline · Scaled to 10M users · Reduced infra cost 45% |
-| **Software Engineer** | Enterprise Software Firm | 2018 — 2020 | Developed microservices · Migrated monolith to cloud · 99.99% uptime |
+| **AI/ML Engineer** | Zensar Technologies | Aug 2025 — Aug 2026 | Promoted from Intern · Architected & deployed 3 production ML models · Owned end-to-end AI/ML pipelines on AWS |
+| **AI/ML Engineer Intern** | Zensar Technologies | Aug 2024 — Jul 2025 | Processed 100K+ records at 95%+ quality · Built dashboards · Developed & evaluated ML models |
 
 </div>
 
@@ -235,12 +180,11 @@ Designed a plugin-based provider architecture with a unified resource graph, ena
 
 | Recognition | Details |
 |:-----------:|:--------|
-| **Top 1% GitHub Contributor** | Ranked in top 1% of contributors globally by commit activity and community impact |
-| **AI Innovation Award** | Recognized for breakthrough work in production ML systems at enterprise scale |
-| **Patent Holder** | Co-inventor on 3 patents related to distributed ML inference and edge computing |
-| **Conference Speaker** | Presented at 5+ international conferences on AI engineering and cloud architecture |
-| **Open Source Maintainer** | Maintainer of 4 popular open-source projects with 15K+ combined stars |
-| **Hackathon Winner** | First place in 3 international AI/ML hackathons against 500+ teams |
+| **Published NLP Research** | Comparative-evaluation paper accepted at ICEAT 2025 (91.5% benchmark accuracy) |
+| **Promoted to AI/ML Engineer** | Earned promotion from Intern within one year at Zensar Technologies |
+| **3 Production ML Models** | Architected, trained, and deployed production-ready ML models for enterprise clients |
+| **95%+ Data Quality** | Sustained across pipelines processing 100,000+ records |
+| **92% Model Accuracy** | Achieved on fake news classification with 0.89 F1-score |
 
 </div>
 
@@ -250,25 +194,17 @@ Designed a plugin-based provider architecture with a unified resource graph, ena
 
 <div align="center">
 
+**Red Hat**
+
+![Red Hat](https://img.shields.io/badge/Red%20Hat-System%20Administration-EE0000?style=for-the-badge&labelColor=1E1B4B&logo=redhat&logoColor=white)
+
+**Palo Alto Networks**
+
+![Palo Alto](https://img.shields.io/badge/Palo%20Alto-Network%20Security%20Fundamentals-FA582D?style=for-the-badge&labelColor=1E1B4B&logo=paloaltonetworks&logoColor=white)
+
 **AWS**
 
-![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&labelColor=1E1B4B&logo=amazonaws&logoColor=white)
-![AWS ML](https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?style=for-the-badge&labelColor=1E1B4B&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Architect-F80000?style=for-the-badge&labelColor=1E1B4B&logo=oracle&logoColor=white)
-![Oracle Java](https://img.shields.io/badge/Oracle-Java%20SE%20Professional-F80000?style=for-the-badge&labelColor=1E1B4B&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL AI](https://img.shields.io/badge/NPTEL-Artificial%20Intelligence-6D28D9?style=for-the-badge&labelColor=1E1B4B&logo=academia&logoColor=white)
-![NPTEL ML](https://img.shields.io/badge/NPTEL-Machine%20Learning-7C3AED?style=for-the-badge&labelColor=1E1B4B&logo=academia&logoColor=white)
-
-**Cisco**
-
-![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&labelColor=1E1B4B&logo=cisco&logoColor=white)
-![Cisco Cyber](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&labelColor=1E1B4B&logo=cisco&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Computing-FF9900?style=for-the-badge&labelColor=1E1B4B&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -278,20 +214,20 @@ Designed a plugin-based provider architecture with a unified resource graph, ena
 
 <div align="center">
 
-<a href="https://leetcode.com/hitanshu-mahajan">
-  <img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%202000%2B%20Solved-FFA116?style=for-the-badge&labelColor=1E1B4B&logo=leetcode&logoColor=white" />
+<a href="https://github.com/Hitanshu009">
+  <img src="https://img.shields.io/badge/GitHub-Hitanshu009-181717?style=for-the-badge&labelColor=1E1B4B&logo=github&logoColor=white" />
 </a>
 <br/><br/>
-<a href="https://geeksforgeeks.org/user/hitanshu-mahajan">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-5%20Star%20%7C%201500%2B%20Solved-2F8D46?style=for-the-badge&labelColor=1E1B4B&logo=geeksforgeeks&logoColor=white" />
+<a href="https://linkedin.com/in/hitanshu-mahajan">
+  <img src="https://img.shields.io/badge/LinkedIn-Hitanshu%20Mahajan-0A66C2?style=for-the-badge&labelColor=1E1B4B&logo=linkedin&logoColor=white" />
 </a>
 <br/><br/>
-<a href="https://hackerrank.com/hitanshu-mahajan">
-  <img src="https://img.shields.io/badge/HackerRank-6%20Star%20%7C%20Gold%20Badge-00EA64?style=for-the-badge&labelColor=1E1B4B&logo=hackerrank&logoColor=white" />
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-Solving%20Problems-FFA116?style=for-the-badge&labelColor=1E1B4B&logo=leetcode&logoColor=white" />
 </a>
 <br/><br/>
-<a href="https://codechef.com/users/hitanshu-mahajan">
-  <img src="https://img.shields.io/badge/CodeChef-5%20Star%20%7C%202100%2B%20Rating-5B4638?style=for-the-badge&labelColor=1E1B4B&logo=codechef&logoColor=white" />
+<a href="https://hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-00EA64?style=for-the-badge&labelColor=1E1B4B&logo=hackerrank&logoColor=white" />
 </a>
 
 </div>
@@ -302,12 +238,12 @@ Designed a plugin-based provider architecture with a unified resource graph, ena
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hitanshu-mahajan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&border_radius=12&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hitanshu-mahajan&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&border_radius=12" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hitanshu009&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&border_radius=12&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitanshu009&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&border_radius=12" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitanshu-mahajan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10&border_radius=12" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitanshu009&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10&border_radius=12" width="49%" />
 
 </div>
 
@@ -317,7 +253,7 @@ Designed a plugin-based provider architecture with a unified resource graph, ena
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hitanshu-mahajan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=A78BFA&icon_color=8B5CF6" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hitanshu009&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=A78BFA&icon_color=8B5CF6" width="100%" />
 
 </div>
 
@@ -327,7 +263,7 @@ Designed a plugin-based provider architecture with a unified resource graph, ena
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hitanshu-mahajan&bg_color=0D1117&color=A78BFA&line=7C3AED&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=12" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitanshu009&bg_color=0D1117&color=A78BFA&line=7C3AED&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=12" width="100%" />
 
 </div>
 
@@ -337,7 +273,7 @@ Designed a plugin-based provider architecture with a unified resource graph, ena
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hitanshu-mahajan/hitanshu-mahajan/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Hitanshu009/Hitanshu009/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -347,23 +283,23 @@ Designed a plugin-based provider architecture with a unified resource graph, ena
 
 ```yaml
 Learning:
-  - Advanced Reinforcement Learning for Autonomous Systems
-  - Distributed Training for Large Language Models
-  - Quantum Machine Learning Fundamentals
+  - Advanced LLM Fine-Tuning and Evaluation Techniques
+  - Scalable RAG Architectures for Enterprise Search
+  - MLOps Best Practices and Model Monitoring at Scale
 
 Building:
-  - Production-grade RAG pipeline for enterprise knowledge bases
-  - Open-source MLOps toolkit for model monitoring
-  - High-performance inference engine for edge AI
+  - Production-grade RAG pipelines for enterprise applications
+  - LLM evaluation workflows with automated benchmarking
+  - End-to-end ML pipelines on AWS (SageMaker, EC2)
 
 Exploring:
-  - Multimodal AI architectures
-  - Federated learning at scale
-  - AI safety and alignment research
+  - Generative AI applications and prompt engineering
+  - Multimodal AI and advanced NLP architectures
+  - Cloud-native ML deployment patterns
 
 Open To:
-  - Senior Software Engineering roles
-  - AI/ML Engineering positions
-  - Technical Leadership opportunities
-  - Open Source Collaborations
-  - Strategic Consulting
+  - AI/ML Engineering roles
+  - NLP and Generative AI positions
+  - MLOps and ML Platform opportunities
+  - International roles (Australia)
+  - Research Collaborations
