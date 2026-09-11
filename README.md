@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:412991&height=200&section=header&text=Hitanshu%20Mahajan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20RAG%20%26%20LLM%20Systems&descAlignY=55&descSize=18" width="100%"/>
+</p>
+
 <h1 align="center">Hey, I'm Hitanshu 👋</h1>
 
 <h3 align="center">I build things that turn "it works in the notebook" into "it works in production."</h3>
@@ -108,3 +112,5 @@ Advanced LLM/RAG architecture, production-grade ML system design, and cloud depl
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Hitanshu009&icon=0&color=0" alt="visitor count" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:412991,100:8A2BE2&height=120&section=footer" width="100%"/>
