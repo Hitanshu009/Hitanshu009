@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Your%20Name&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20Specialist&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:8B5CF6&height=240&section=header&text=Hitanshu%20Mahajan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20Specialist%20%7C%20Full%20Stack%20Architect&descAlignY=58&descSize=18&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=900&height=70&lines=Building+production-grade+AI+systems;Full+Stack+Engineer+%7C+Cloud+Native+Architect;Designing+scalable%2C+secure%2C+high-impact+products;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=70&lines=Building+production-grade+AI+systems+at+scale;Full+Stack+Engineer+%7C+Cloud+Native+Architect;Designing+secure%2C+high-impact+products;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 <a href="https://your-portfolio.com">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&labelColor=1E1B4B&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://linkedin.com/in/hitanshu-mahajan">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&labelColor=1E1B4B&logo=linkedin&logoColor=white" />
 </a>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-Senior Software Engineer with deep expertise in **Artificial Intelligence**, **Machine Learning**, and **Full Stack Product Engineering**. I architect and deliver enterprise-grade systems that operate at scale, prioritizing performance, security, and measurable business impact.
+**Hitanshu Mahajan** — Senior Software Engineer with deep expertise in **Artificial Intelligence**, **Machine Learning**, and **Full Stack Product Engineering**. I architect and deliver enterprise-grade systems that operate at scale, prioritizing performance, security, and measurable business impact.
 
 My engineering philosophy is rooted in **product thinking** — every line of code is a decision that shapes user experience, system reliability, and long-term maintainability. I specialize in bridging cutting-edge AI research with production-ready software that serves millions.
 
@@ -127,7 +127,7 @@ A production-grade semantic search engine leveraging transformer-based embedding
 | **Performance** | P99 latency < 85ms · 99.99% uptime SLA |
 | **Security** | SOC2 Type II · End-to-end encryption · RBAC · Audit logging |
 | **Impact** | Reduced search time by 94% · $4.2M annual operational savings |
-| **Repository** | [github.com/yourname/neural-search](https://github.com/yourname/neural-search) |
+| **Repository** | [github.com/hitanshu-mahajan/neural-search](https://github.com/hitanshu-mahajan/neural-search) |
 
 Engineered a custom ANN index sharding strategy that distributes vector search across GPU-accelerated nodes, enabling horizontal scaling without degradation. Implemented a hybrid retrieval pipeline combining dense and sparse representations, improving recall by 37% over baseline BM25.
 
@@ -147,7 +147,7 @@ An edge-optimized computer vision platform for real-time threat detection, deplo
 | **Performance** | 15ms inference latency · 99.2% detection accuracy |
 | **Security** | Encrypted streams · Tamper-proof logging · Zero-trust architecture |
 | **Impact** | 78% reduction in incident response time · 24/7 autonomous monitoring |
-| **Repository** | [github.com/yourname/vision-guard](https://github.com/yourname/vision-guard) |
+| **Repository** | [github.com/hitanshu-mahajan/vision-guard](https://github.com/hitanshu-mahajan/vision-guard) |
 
 Developed a custom quantization pipeline that reduced model size by 4x while maintaining 98.7% of original accuracy, enabling deployment on resource-constrained edge devices. Built a federated learning orchestrator that aggregates model updates without exposing raw footage.
 
@@ -167,7 +167,7 @@ A real-time financial analytics and fraud detection platform processing millions
 | **Performance** | Sub-10ms fraud scoring · 99.95% precision · 0.01% false positive rate |
 | **Security** | PCI-DSS Level 1 · HSM key management · Real-time anomaly detection |
 | **Impact** | Prevented $18M in fraudulent transactions · 62% faster reporting |
-| **Repository** | [github.com/yourname/fin-flow](https://github.com/yourname/fin-flow) |
+| **Repository** | [github.com/hitanshu-mahajan/fin-flow](https://github.com/hitanshu-mahajan/fin-flow) |
 
 Architected a lambda-style streaming pipeline with exactly-once semantics and automatic backpressure handling. Implemented a novel ensemble approach combining gradient boosting with isolation forests, achieving state-of-the-art fraud detection benchmarks.
 
@@ -187,7 +187,7 @@ An intelligent IDE extension and CLI tool that accelerates software development 
 | **Performance** | 200ms suggestion latency · 94% acceptance rate · 40% time savings |
 | **Security** | Local-first inference · Zero data retention · SOC2 compliant |
 | **Impact** | 40% reduction in boilerplate code · 3.2x faster test coverage |
-| **Repository** | [github.com/yourname/code-pilot](https://github.com/yourname/code-pilot) |
+| **Repository** | [github.com/hitanshu-mahajan/code-pilot](https://github.com/hitanshu-mahajan/code-pilot) |
 
 Built a custom transformer model fine-tuned on 50M+ open-source repositories, with a novel retrieval-augmented generation pipeline that injects project-specific context. Implemented a Rust-based inference engine compiled to WebAssembly for cross-platform deployment.
 
@@ -207,7 +207,7 @@ A declarative infrastructure management platform that abstracts multi-cloud comp
 | **Performance** | 99.99% control plane uptime · 30s avg provision time |
 | **Security** | OIDC integration · Encrypted state · Policy-as-code guardrails |
 | **Impact** | 70% reduction in provisioning time · $2.8M cloud cost optimization |
-| **Repository** | [github.com/yourname/cloud-mesh](https://github.com/yourname/cloud-mesh) |
+| **Repository** | [github.com/hitanshu-mahajan/cloud-mesh](https://github.com/hitanshu-mahajan/cloud-mesh) |
 
 Designed a plugin-based provider architecture with a unified resource graph, enabling drift detection and automated remediation. Implemented a policy engine using Open Policy Agent that enforces organizational guardrails before any infrastructure change is applied.
 
@@ -278,19 +278,19 @@ Designed a plugin-based provider architecture with a unified resource graph, ena
 
 <div align="center">
 
-<a href="https://leetcode.com/your-profile">
+<a href="https://leetcode.com/hitanshu-mahajan">
   <img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%202000%2B%20Solved-FFA116?style=for-the-badge&labelColor=1E1B4B&logo=leetcode&logoColor=white" />
 </a>
 <br/><br/>
-<a href="https://geeksforgeeks.org/user/your-profile">
+<a href="https://geeksforgeeks.org/user/hitanshu-mahajan">
   <img src="https://img.shields.io/badge/GeeksforGeeks-5%20Star%20%7C%201500%2B%20Solved-2F8D46?style=for-the-badge&labelColor=1E1B4B&logo=geeksforgeeks&logoColor=white" />
 </a>
 <br/><br/>
-<a href="https://hackerrank.com/your-profile">
+<a href="https://hackerrank.com/hitanshu-mahajan">
   <img src="https://img.shields.io/badge/HackerRank-6%20Star%20%7C%20Gold%20Badge-00EA64?style=for-the-badge&labelColor=1E1B4B&logo=hackerrank&logoColor=white" />
 </a>
 <br/><br/>
-<a href="https://codechef.com/users/your-profile">
+<a href="https://codechef.com/users/hitanshu-mahajan">
   <img src="https://img.shields.io/badge/CodeChef-5%20Star%20%7C%202100%2B%20Rating-5B4638?style=for-the-badge&labelColor=1E1B4B&logo=codechef&logoColor=white" />
 </a>
 
@@ -302,12 +302,12 @@ Designed a plugin-based provider architecture with a unified resource graph, ena
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&border_radius=12&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourname&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&border_radius=12" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=hitanshu-mahajan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&border_radius=12&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hitanshu-mahajan&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&border_radius=12" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10&border_radius=12" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitanshu-mahajan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10&border_radius=12" width="49%" />
 
 </div>
 
@@ -317,7 +317,7 @@ Designed a plugin-based provider architecture with a unified resource graph, ena
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourname&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=A78BFA&icon_color=8B5CF6" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=hitanshu-mahajan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=A78BFA&icon_color=8B5CF6" width="100%" />
 
 </div>
 
@@ -327,7 +327,7 @@ Designed a plugin-based provider architecture with a unified resource graph, ena
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourname&bg_color=0D1117&color=A78BFA&line=7C3AED&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=12" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hitanshu-mahajan&bg_color=0D1117&color=A78BFA&line=7C3AED&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=12" width="100%" />
 
 </div>
 
@@ -337,7 +337,7 @@ Designed a plugin-based provider architecture with a unified resource graph, ena
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourname/yourname/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/hitanshu-mahajan/hitanshu-mahajan/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
