@@ -234,46 +234,50 @@ Engineered the complete system from preprocessing to recognition, focusing on re
 
 ---
 
-## GitHub Analytics
+## What Drives Me
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hitanshu009&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&border_radius=12&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitanshu009&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&border_radius=12" width="49%" />
+**I believe the best AI systems are the ones that quietly disappear into the products people use every day.**
 
-<br/><br/>
+Not the flashiest models. Not the biggest benchmarks.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitanshu009&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10&border_radius=12" width="49%" />
+The ones that **reduce a 3-hour task to 30 seconds**, that **catch fraud before it happens**, that **help a student find the right answer** — reliably, securely, and at scale.
+
+That's the kind of engineering I obsess over.
 
 </div>
 
 ---
 
-## GitHub Trophies
+## How I Think About AI Engineering
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hitanshu009&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=A78BFA&icon_color=8B5CF6" width="100%" />
+| Principle | What It Means In Practice |
+|:---------:|:--------------------------|
+| **Data First** | 80% of model quality comes from clean, well-understood data — I invest heavily upstream |
+| **Evaluate Ruthlessly** | Accuracy alone lies — I use precision, recall, F1, and error analysis to find the truth |
+| **Ship, Then Improve** | A deployed model with 88% accuracy teaches more than a perfect model on paper |
+| **Monitor Everything** | Models drift — logging, monitoring, and retraining pipelines are not optional |
+| **Explain The Why** | Stakeholders deserve to understand what the model does and why it makes decisions |
 
 </div>
 
 ---
 
-## Contribution Activity
+## Beyond The Code
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitanshu009&bg_color=0D1117&color=A78BFA&line=7C3AED&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=12" width="100%" />
+I don't just train models — I **write about them**.
 
-</div>
+My published research at **ICEAT 2025** came from a simple question: *why do different classifiers fail on the same data?* That curiosity turned into a comparative study, a paper, and an 8% improvement in generalisability.
 
----
+I also believe in **building in public** — sharing progress, documenting failures, and learning from the community. Every project here started as a small experiment.
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Hitanshu009/Hitanshu009/output/github-contribution-grid-snake-dark.svg" width="100%" />
+**Currently reading:** *Designing Machine Learning Systems* by Chip Huyen
+**Currently curious about:** How RAG architectures will evolve beyond simple retrieval
 
 </div>
 
