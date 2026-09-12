@@ -1,28 +1,13 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                    HITANSHU MAHAJAN — AI/ML ENGINEER PROFILE                 -->
-<!--                         Premium Dark Purple Theme                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!-- ─────────────── ANIMATED TECH BACKGROUND (SVG GRID + GRADIENT) ─────────────── -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hitanshu009/Hitanshu009/main/assets/header-bg-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hitanshu009/Hitanshu009/main/assets/header-bg-light.svg">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:8B5CF6&height=260&section=header&text=Hitanshu%20Mahajan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20Engineer%20%7C%20NLP%20%7C%20Generative%20AI%20%7C%20MLOps&descAlignY=56&descSize=18" width="100%" alt="Header Banner" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:8B5CF6&height=240&section=header&text=Hitanshu%20Mahajan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20NLP%20%7C%20Generative%20AI%20%7C%20MLOps&descAlignY=58&descSize=18&descAlign=50" width="100%" />
 
-<!-- Animated circuit-line divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,25:4C1D95,50:7C3AED,75:6D28D9,100:1E1B4B&height=3&section=header" width="100%" />
-
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=70&lines=AI%2FML+Engineer+with+2%2B+years+of+experience;Building+production-grade+NLP+%26+RAG+solutions;Published+NLP+Researcher+%7C+ICEAT+2025;Deploying+ML+models+on+AWS+at+enterprise+scale" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Academic + Specialization Badges -->
 ![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Engineering-6D28D9?style=flat-square&labelColor=1E1B4B&logo=academia&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/Specialization-AI%20%2F%20ML-8B5CF6?style=flat-square&labelColor=1E1B4B&logo=tensorflow&logoColor=white)
 ![Research](https://img.shields.io/badge/Published-NLP%20Research%20(ICEAT%202025)-7C3AED?style=flat-square&labelColor=1E1B4B&logo=googlescholar&logoColor=white)
@@ -32,7 +17,6 @@
 
 <br/>
 
-<!-- CTA Buttons -->
 <a href="https://github.com/Hitanshu009">
   <img src="https://img.shields.io/badge/GitHub-Hitanshu009-7C3AED?style=for-the-badge&labelColor=1E1B4B&logo=github&logoColor=white" />
 </a>
@@ -42,20 +26,11 @@
 
 </div>
 
-<!-- Animated tech background strip -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="" />
-</p>
-
 ---
 
 ## About
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:4C1D95,100:1E1B4B&height=2" width="60%" />
-
-<br/>
 
 **Hitanshu Mahajan** — AI/ML Engineer with **2+ years of experience** and a **published NLP research paper (ICEAT 2025)**, building and deploying machine learning solutions across **NLP**, **Generative AI**, and **Predictive Modelling**. Skilled in Python, TensorFlow, PyTorch, and Scikit-learn across the full ML lifecycle — from data preprocessing and feature engineering through model development, evaluation, deployment, and monitoring.
 
@@ -63,26 +38,13 @@ I have delivered **production-ready AI applications**, **RAG-based solutions**, 
 
 **Open To:** AI/ML Engineering roles · NLP & Generative AI positions · MLOps opportunities · International roles (Australia) · Research Collaborations
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:4C1D95,100:1E1B4B&height=2" width="60%" />
-
 </div>
-
-<!-- Tech background strip -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="" />
-</p>
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:6D28D9,100:1E1B4B&height=2" width="80%" />
-
-<br/>
 
 **Languages**
 
@@ -114,26 +76,13 @@ I have delivered **production-ready AI applications**, **RAG-based solutions**, 
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Jupyter](https://skillicons.dev/icons?i=jupyter)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:6D28D9,100:1E1B4B&height=2" width="80%" />
-
 </div>
-
-<!-- Tech background strip -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="" />
-</p>
 
 ---
 
 ## AI / ML Expertise
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:7C3AED,100:1E1B4B&height=2" width="80%" />
-
-<br/>
 
 | Domain | Proficiency | Details |
 |:------:|:-----------:|:--------|
@@ -144,16 +93,7 @@ I have delivered **production-ready AI applications**, **RAG-based solutions**, 
 | **Cloud & MLOps** | Advanced | AWS, Amazon SageMaker, EC2, Docker, MLflow, CI/CD, Model Deployment, Monitoring, Logging |
 | **Evaluation Metrics** | Advanced | Accuracy, Precision, Recall, F1-score, AUC-ROC, Cross-Validation, Model Benchmarking |
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:7C3AED,100:1E1B4B&height=2" width="80%" />
-
 </div>
-
-<!-- Tech background strip -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="" />
-</p>
 
 ---
 
@@ -219,46 +159,24 @@ Engineered the complete system from preprocessing to recognition, focusing on re
 
 </details>
 
-<!-- Tech background strip -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="" />
-</p>
-
 ---
 
 ## Experience
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:8B5CF6,100:1E1B4B&height=2" width="80%" />
-
-<br/>
-
 | Role | Company | Duration | Highlights |
 |:----:|:-------:|:--------:|:-----------|
 | **AI/ML Engineer** | Zensar Technologies | Aug 2025 — Aug 2026 | Promoted from Intern · Architected & deployed 3 production ML models · Owned end-to-end AI/ML pipelines on AWS |
 | **AI/ML Engineer Intern** | Zensar Technologies | Aug 2024 — Jul 2025 | Processed 100K+ records at 95%+ quality · Built dashboards · Developed & evaluated ML models |
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:8B5CF6,100:1E1B4B&height=2" width="80%" />
-
 </div>
-
-<!-- Tech background strip -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="" />
-</p>
 
 ---
 
 ## Achievements
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:7C3AED,100:1E1B4B&height=2" width="80%" />
-
-<br/>
 
 | Recognition | Details |
 |:-----------:|:--------|
@@ -268,26 +186,13 @@ Engineered the complete system from preprocessing to recognition, focusing on re
 | **95%+ Data Quality** | Sustained across pipelines processing 100,000+ records |
 | **92% Model Accuracy** | Achieved on fake news classification with 0.89 F1-score |
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:7C3AED,100:1E1B4B&height=2" width="80%" />
-
 </div>
-
-<!-- Tech background strip -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="" />
-</p>
 
 ---
 
 ## Certifications
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:6D28D9,100:1E1B4B&height=2" width="80%" />
-
-<br/>
 
 **Red Hat**
 
@@ -301,26 +206,13 @@ Engineered the complete system from preprocessing to recognition, focusing on re
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Computing-FF9900?style=for-the-badge&labelColor=1E1B4B&logo=amazonaws&logoColor=white)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:6D28D9,100:1E1B4B&height=2" width="80%" />
-
 </div>
-
-<!-- Tech background strip -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="" />
-</p>
 
 ---
 
 ## Coding Profiles
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:8B5CF6,100:1E1B4B&height=2" width="80%" />
-
-<br/>
 
 <a href="https://github.com/Hitanshu009">
   <img src="https://img.shields.io/badge/GitHub-Hitanshu009-181717?style=for-the-badge&labelColor=1E1B4B&logo=github&logoColor=white" />
@@ -338,26 +230,13 @@ Engineered the complete system from preprocessing to recognition, focusing on re
   <img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-00EA64?style=for-the-badge&labelColor=1E1B4B&logo=hackerrank&logoColor=white" />
 </a>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:8B5CF6,100:1E1B4B&height=2" width="80%" />
-
 </div>
-
-<!-- Tech background strip -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="" />
-</p>
 
 ---
 
 ## What Drives Me
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:7C3AED,100:1E1B4B&height=2" width="80%" />
-
-<br/>
 
 **I believe the best AI systems are the ones that quietly disappear into the products people use every day.**
 
@@ -367,26 +246,13 @@ The ones that **reduce a 3-hour task to 30 seconds**, that **catch fraud before 
 
 That's the kind of engineering I obsess over.
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:7C3AED,100:1E1B4B&height=2" width="80%" />
-
 </div>
-
-<!-- Tech background strip -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="" />
-</p>
 
 ---
 
 ## How I Think About AI Engineering
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:6D28D9,100:1E1B4B&height=2" width="80%" />
-
-<br/>
 
 | Principle | What It Means In Practice |
 |:---------:|:--------------------------|
@@ -396,26 +262,13 @@ That's the kind of engineering I obsess over.
 | **Monitor Everything** | Models drift — logging, monitoring, and retraining pipelines are not optional |
 | **Explain The Why** | Stakeholders deserve to understand what the model does and why it makes decisions |
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:6D28D9,100:1E1B4B&height=2" width="80%" />
-
 </div>
-
-<!-- Tech background strip -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="" />
-</p>
 
 ---
 
 ## Beyond The Code
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:8B5CF6,100:1E1B4B&height=2" width="80%" />
-
-<br/>
 
 I don't just train models — I **write about them**.
 
@@ -426,26 +279,11 @@ I also believe in **building in public** — sharing progress, documenting failu
 **Currently reading:** *Designing Machine Learning Systems* by Chip Huyen
 **Currently curious about:** How RAG architectures will evolve beyond simple retrieval
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:8B5CF6,100:1E1B4B&height=2" width="80%" />
-
 </div>
-
-<!-- Tech background strip -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="" />
-</p>
 
 ---
 
 ## Current Focus
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:7C3AED,100:1E1B4B&height=2" width="80%" />
-
-</div>
 
 ```yaml
 Learning:
