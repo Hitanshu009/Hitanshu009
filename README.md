@@ -1,309 +1,254 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,25:412991,50:5C2D91,75:8A2BE2,100:1a0033&height=220&section=header&text=Hitanshu%20Mahajan&fontSize=48&fontColor=E8E3FF&animation=fadeIn&fontAlignY=32&desc=AI%2FML%20Engineer%20%E2%80%A2%20Generative%20AI%20%26%20LLM%20Systems&descAlignY=52&descSize=17&descAlign=50" width="100%"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:8B5CF6&height=240&section=header&text=Hitanshu%20Mahajan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20NLP%20%7C%20Generative%20AI%20%7C%20MLOps&descAlignY=58&descSize=18&descAlign=50" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+Production-Grade+RAG+%26+LLM+Systems;NLP+%7C+Semantic+Search+%7C+ML+Evaluation;From+Research+Papers+to+Production+APIs" alt="Typing SVG" />
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=70&lines=AI%2FML+Engineer+with+2%2B+years+of+experience;Building+production-grade+NLP+%26+RAG+solutions;Published+NLP+Researcher+%7C+ICEAT+2025;Deploying+ML+models+on+AWS+at+enterprise+scale" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/B.E.-Computer%20Engineering-412991?style=flat-square&labelColor=1a0033" />
+  <img src="https://img.shields.io/badge/📍-Pune,%20India-412991?style=flat-square&labelColor=1a0033" />
+  <img src="https://komarev.com/ghpvc/?username=Hitanshu009&label=Profile%20Views&color=5C2D91&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Hitanshu009?label=Followers&style=flat-square&color=5C2D91&labelColor=1a0033" />
+  <img src="https://img.shields.io/github/stars/Hitanshu009?label=Stars&style=flat-square&color=5C2D91&labelColor=1a0033" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/hitanshu-mahajan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hitanshumahajan3@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Hitanshu009"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Engineering-6D28D9?style=flat-square&labelColor=1E1B4B&logo=academia&logoColor=white)
-![AI/ML](https://img.shields.io/badge/Specialization-AI%20%2F%20ML-8B5CF6?style=flat-square&labelColor=1E1B4B&logo=tensorflow&logoColor=white)
-![Research](https://img.shields.io/badge/Published-NLP%20Research%20(ICEAT%202025)-7C3AED?style=flat-square&labelColor=1E1B4B&logo=googlescholar&logoColor=white)
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
 
-![Location](https://img.shields.io/badge/Location-Pune%2C%20India-4F46E5?style=flat-square&labelColor=1E1B4B&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Relocate%20to%20Australia-6366F1?style=flat-square&labelColor=1E1B4B&logo=statuspage&logoColor=white)
+## 🧠 About Me
 
-<br/>
+I'm an **AI/ML Engineer** with a Computer Engineering foundation, focused on the layer of software engineering that most ML work skips: making models *reliable in production*, not just accurate in a notebook.
 
-<a href="https://github.com/Hitanshu009">
-  <img src="https://img.shields.io/badge/GitHub-Hitanshu009-7C3AED?style=for-the-badge&labelColor=1E1B4B&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/hitanshu-mahajan">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&labelColor=1E1B4B&logo=linkedin&logoColor=white" />
-</a>
+My core focus is **Generative AI and Large Language Model systems** — specifically **Retrieval-Augmented Generation (RAG)**, semantic search, and NLP pipelines — engineered with the same rigor as backend systems: versioned, evaluated, monitored, and built to survive real traffic. I approach AI engineering with a **product mindset**: every retrieval pipeline or model output is judged by whether it solves a real problem end-to-end, not by benchmark performance alone.
 
-</div>
+**🎯 Open to:** AI/ML Engineer roles · LLM/RAG Engineering · Applied NLP research collaborations · Open-source AI tooling contributions
 
----
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
 
-## About
-
-<div align="center">
-
-**Hitanshu Mahajan** — AI/ML Engineer with **2+ years of experience** and a **published NLP research paper (ICEAT 2025)**, building and deploying machine learning solutions across **NLP**, **Generative AI**, and **Predictive Modelling**. Skilled in Python, TensorFlow, PyTorch, and Scikit-learn across the full ML lifecycle — from data preprocessing and feature engineering through model development, evaluation, deployment, and monitoring.
-
-I have delivered **production-ready AI applications**, **RAG-based solutions**, and **LLM evaluation workflows** on AWS, with working knowledge of Docker, MLflow, CI/CD, and REST API integration. My engineering approach prioritizes reliability, scalability, and measurable business impact — translating complex business requirements into robust technical solutions.
-
-**Open To:** AI/ML Engineering roles · NLP & Generative AI positions · MLOps opportunities · International roles (Australia) · Research Collaborations
-
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
+## 🛠️ Tech Stack
 
 **Languages**
+<p><img src="https://skillicons.dev/icons?i=python,cpp,java,js,mysql" /></p>
 
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C++](https://skillicons.dev/icons?i=cpp)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![SQL](https://skillicons.dev/icons?i=mysql)
-
-**Machine Learning & AI**
-
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
+**AI / ML / Data**
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-5C2D91?style=flat-square&logo=databricks&logoColor=white" />
+</p>
 
 **Backend & Databases**
-
-![Flask](https://skillicons.dev/icons?i=flask)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![REST API](https://skillicons.dev/icons?i=postman)
+<p><img src="https://skillicons.dev/icons?i=fastapi,mysql" /></p>
 
 **Cloud, DevOps & Tooling**
+<p><img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux" /></p>
 
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Jupyter](https://skillicons.dev/icons?i=jupyter)
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
 
-</div>
-
----
-
-## AI / ML Expertise
+## 🤖 AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
-|:------:|:-----------:|:--------|
-| **Machine Learning** | Advanced | TensorFlow, PyTorch, Scikit-learn, XGBoost, OpenCV, Predictive Modelling, Classification |
-| **ML Engineering** | Advanced | Data Preprocessing, Feature Engineering, Model Development, Training Pipelines, Hyperparameter Tuning, Model Evaluation, Error Analysis |
-| **Generative AI** | Advanced | LLMs, RAG, Prompt Engineering, LLM Evaluation, Embeddings, AI Application Development |
-| **NLP** | Expert | TF-IDF, Intent Classification, Text Classification, Embeddings, spaCy |
-| **Cloud & MLOps** | Advanced | AWS, Amazon SageMaker, EC2, Docker, MLflow, CI/CD, Model Deployment, Monitoring, Logging |
-| **Evaluation Metrics** | Advanced | Accuracy, Precision, Recall, F1-score, AUC-ROC, Cross-Validation, Model Benchmarking |
+|---|:---:|---|
+| **Retrieval-Augmented Generation** | ⭐⭐⭐⭐☆ | Document ingestion, chunking, embeddings, hybrid retrieval, reranking, cited generation |
+| **LLM Application Engineering** | ⭐⭐⭐⭐☆ | Prompting, orchestration, evaluation, FastAPI-based serving |
+| **Natural Language Processing** | ⭐⭐⭐⭐☆ | Tokenization, TF-IDF, text classification, semantic search |
+| **Machine Learning** | ⭐⭐⭐⭐☆ | Classical ML (SVM, classification pipelines), model evaluation (Accuracy/Precision/Recall/F1) |
+| **Deep Learning** | ⭐⭐⭐☆☆ | Neural architectures via TensorFlow & PyTorch |
+| **Computer Vision** | ⭐⭐⭐☆☆ | Facial recognition & identity verification pipelines |
+| **Cloud AI Deployment** | ⭐⭐⭐☆☆ | Deploying ML/AI services on AWS & GCP |
 
 </div>
 
----
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
 
-## Featured Projects
+## 🚀 Featured Projects
 
-<details>
-<summary><b>Fake News Detection System — Published NLP Research (ICEAT 2025)</b></summary>
+<details open>
+<summary><b>🧠 Production RAG Knowledge Assistant</b></summary>
+<br>
 
-<br/>
+A full-stack Retrieval-Augmented Generation system engineered for production use — from raw documents to cited, trustworthy answers.
 
-An NLP-based fake news classification system leveraging TF-IDF feature extraction with multiple classifiers (SVM, Logistic Regression, Random Forest) to identify misinformation with high precision. Published as a comparative-evaluation research paper at ICEAT 2025.
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, FastAPI, RAG, LLMs, NLP, Vector Search |
+| **Scale** | End-to-end pipeline: ingestion → chunking → embeddings → retrieval → generation |
+| **Performance** | Hybrid/semantic retrieval with reranking for higher answer relevance |
+| **Security** | Structured, source-cited generation to reduce hallucination risk |
+| **Impact** | Converts unstructured document sets into a queryable, trustworthy knowledge layer |
+| **Repository** | *Link on request* |
 
-| Attribute | Detail |
-|:---------:|:-------|
-| **Stack** | Python, Scikit-learn, NLP, TF-IDF, SVM, Flask |
-| **Scale** | Comparative evaluation of 3 classifiers · Benchmark accuracy 91.5% |
-| **Performance** | 92% accuracy · 91% precision · 90% recall · 0.89 F1-score |
-| **Security** | Input validation · Safe model loading · Sanitized API endpoints |
-| **Impact** | Improved generalisability by 8% · Published at ICEAT 2025 |
-| **Repository** | [github.com/Hitanshu009](https://github.com/Hitanshu009) |
-
-Designed and built the complete classification pipeline — from data preprocessing and TF-IDF feature extraction through model training, evaluation, and structured error analysis. The comparative study exposed weaknesses and edge cases across classifiers, informing the published research paper and improving real-world generalisability.
-
-</details>
-
-<details>
-<summary><b>AI-Powered University Chatbot</b></summary>
-
-<br/>
-
-A conversational AI application designed to handle university queries using NLP-based intent classification and confidence scoring, featuring fallback handling for ambiguous queries to ensure reliable user experience.
-
-| Attribute | Detail |
-|:---------:|:-------|
-| **Stack** | Python, Flask, spaCy, SQLite |
-| **Scale** | Multi-intent classification · Ambiguous query fallback handling |
-| **Performance** | 88% intent classification accuracy · 50% reduction in query resolution time |
-| **Security** | Input sanitization · Safe database queries · Graceful fallback handling |
-| **Impact** | Cut query resolution time by 50% through iterative testing and optimization |
-| **Repository** | [github.com/Hitanshu009](https://github.com/Hitanshu009) |
-
-Built an end-to-end conversational pipeline with intent classification, confidence scoring, and fallback logic. Iterative testing and optimization cycles drove continuous improvement in classification accuracy and user experience.
+Built with a production-oriented FastAPI backend rather than a notebook demo — the emphasis throughout was retrieval quality and response accuracy under real evaluation, not just a working prototype.
 
 </details>
 
 <details>
-<summary><b>Facial Recognition Attendance System</b></summary>
+<summary><b>📰 Fake News Detection System</b></summary>
+<br>
 
-<br/>
+An NLP research system classifying news content as real or fake, developed as undergraduate research.
 
-A real-time facial recognition attendance system built with OpenCV and face recognition libraries, achieving high recognition accuracy with an optimized preprocessing pipeline for fast detection.
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, NLP, TF-IDF, Scikit-learn, SVM |
+| **Scale** | Full text-classification pipeline: preprocessing → feature extraction → classification |
+| **Performance** | Evaluated on Accuracy, Precision, Recall, and F1-score |
+| **Security** | N/A — research/classification system |
+| **Impact** | Presented at the **International Conference on Engineering and Advanced Technologies (ICEAT 2025)** |
+| **Repository** | [github.com/Hitanshu009/Fake-News-Detection](https://github.com/Hitanshu009/Fake-News-Detection) |
 
-| Attribute | Detail |
-|:---------:|:-------|
-| **Stack** | Python, OpenCV, Face Recognition, SQLite |
-| **Scale** | Real-time recognition · Automated attendance logging |
-| **Performance** | 95% recognition accuracy · 40% faster detection |
-| **Security** | Local data storage · Controlled access to attendance records |
-| **Impact** | 40% improvement in detection speed via preprocessing optimization |
-| **Repository** | [github.com/Hitanshu009](https://github.com/Hitanshu009) |
-
-Engineered the complete system from preprocessing to recognition, focusing on real-time performance. The optimized preprocessing pipeline significantly boosted detection speed while maintaining high recognition accuracy.
+Applied TF-IDF feature extraction with an SVM classifier to tackle real-world misinformation — a research-first project that doubled as a rigorous exercise in NLP pipeline design.
 
 </details>
 
----
+<details>
+<summary><b>🤖 University Query Chatbot</b></summary>
+<br>
 
-## Experience
+A conversational assistant built to handle common university-related queries with structured, fast responses.
 
-<div align="center">
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, NLP, Machine Learning |
+| **Scale** | Single-domain conversational Q&A system |
+| **Performance** | Optimized for quick, structured query resolution |
+| **Security** | N/A |
+| **Impact** | Reduces manual query handling for common student questions |
+| **Repository** | *Link on request* |
 
-| Role | Company | Duration | Highlights |
-|:----:|:-------:|:--------:|:-----------|
-| **AI/ML Engineer** | Zensar Technologies | Aug 2025 — Aug 2026 | Promoted from Intern · Architected & deployed 3 production ML models · Owned end-to-end AI/ML pipelines on AWS |
-| **AI/ML Engineer Intern** | Zensar Technologies | Aug 2024 — Jul 2025 | Processed 100K+ records at 95%+ quality · Built dashboards · Developed & evaluated ML models |
+</details>
 
-</div>
+<details>
+<summary><b>📷 Facial Recognition Attendance System</b></summary>
+<br>
 
----
+An AI-based attendance system automating identity verification and attendance logging.
 
-## Achievements
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, Computer Vision, Machine Learning |
+| **Scale** | Real-time facial detection & identity matching |
+| **Performance** | Automated recognition replacing manual roll-call |
+| **Security** | Identity-based verification for attendance integrity |
+| **Impact** | Removes manual attendance overhead in classroom/organizational settings |
+| **Repository** | *Link on request* |
+
+</details>
+
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
+
+## 💼 Experience
+
+> *This section is ready to go — send me your role title(s), company name(s), dates, and a few scope-of-work bullets and I'll drop them in with the same formatting as the rest of the doc.*
+
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
+
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|:-----------:|:--------|
-| **Published NLP Research** | Comparative-evaluation paper accepted at ICEAT 2025 (91.5% benchmark accuracy) |
-| **Promoted to AI/ML Engineer** | Earned promotion from Intern within one year at Zensar Technologies |
-| **3 Production ML Models** | Architected, trained, and deployed production-ready ML models for enterprise clients |
-| **95%+ Data Quality** | Sustained across pipelines processing 100,000+ records |
-| **92% Model Accuracy** | Achieved on fake news classification with 0.89 F1-score |
+|---|---|
+| 📄 **Research Publication** | *Fake News Detection System* — presented at ICEAT 2025 (International Conference on Engineering and Advanced Technologies) |
 
 </div>
 
----
+> *Add any hackathons, awards, or additional publications and I'll extend this table.*
 
-## Certifications
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
 
-<div align="center">
+## 📜 Certifications
 
-**Red Hat**
+> *No certifications on file yet — send me the providers (AWS / Oracle / NPTEL / Cisco / other) and course names, and I'll add the badge set here.*
 
-![Red Hat](https://img.shields.io/badge/Red%20Hat-System%20Administration-EE0000?style=for-the-badge&labelColor=1E1B4B&logo=redhat&logoColor=white)
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
 
-**Palo Alto Networks**
+## 💻 Coding Profiles
 
-![Palo Alto](https://img.shields.io/badge/Palo%20Alto-Network%20Security%20Fundamentals-FA582D?style=for-the-badge&labelColor=1E1B4B&logo=paloaltonetworks&logoColor=white)
+> *Share your LeetCode / GeeksforGeeks / HackerRank / CodeChef usernames and I'll render the premium stat badges here.*
 
-**AWS**
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
 
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Computing-FF9900?style=for-the-badge&labelColor=1E1B4B&logo=amazonaws&logoColor=white)
+## 📊 GitHub Analytics
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hitanshu009&theme=radical&hide_border=true&bg_color=1a0033&title_color=A78BFA&icon_color=8A2BE2&text_color=E8E3FF&include_all_commits=false&count_private=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitanshu009&theme=radical&hide_border=true&bg_color=1a0033&title_color=A78BFA&text_color=E8E3FF&layout=compact" width="41%" />
+</p>
 
----
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Hitanshu009&theme=radical&hide_border=true&background=1a0033&ring=8A2BE2&fire=A78BFA&currStreakLabel=E8E3FF" width="60%" />
+</p>
 
-## Coding Profiles
+## 🏅 GitHub Trophies
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hitanshu009&theme=radical&no-frame=true&margin-w=8&column=7" width="90%" />
+</p>
 
-<a href="https://github.com/Hitanshu009">
-  <img src="https://img.shields.io/badge/GitHub-Hitanshu009-181717?style=for-the-badge&labelColor=1E1B4B&logo=github&logoColor=white" />
-</a>
-<br/><br/>
-<a href="https://linkedin.com/in/hitanshu-mahajan">
-  <img src="https://img.shields.io/badge/LinkedIn-Hitanshu%20Mahajan-0A66C2?style=for-the-badge&labelColor=1E1B4B&logo=linkedin&logoColor=white" />
-</a>
-<br/><br/>
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Solving%20Problems-FFA116?style=for-the-badge&labelColor=1E1B4B&logo=leetcode&logoColor=white" />
-</a>
-<br/><br/>
-<a href="https://hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-00EA64?style=for-the-badge&labelColor=1E1B4B&logo=hackerrank&logoColor=white" />
-</a>
+## 📈 Contribution Activity
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitanshu009&theme=redical&bg_color=1a0033&color=A78BFA&line=8A2BE2&point=E8E3FF" width="90%" />
+</p>
 
----
+## 🐍 Contribution Snake
 
-## What Drives Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hitanshu009/Hitanshu009/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</p>
 
-<div align="center">
+> *Snake animation requires a one-time GitHub Actions workflow added to your profile repo — happy to write that workflow file if you want this section live.*
 
-**I believe the best AI systems are the ones that quietly disappear into the products people use every day.**
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
 
-Not the flashiest models. Not the biggest benchmarks.
-
-The ones that **reduce a 3-hour task to 30 seconds**, that **catch fraud before it happens**, that **help a student find the right answer** — reliably, securely, and at scale.
-
-That's the kind of engineering I obsess over.
-
-</div>
-
----
-
-## How I Think About AI Engineering
-
-<div align="center">
-
-| Principle | What It Means In Practice |
-|:---------:|:--------------------------|
-| **Data First** | 80% of model quality comes from clean, well-understood data — I invest heavily upstream |
-| **Evaluate Ruthlessly** | Accuracy alone lies — I use precision, recall, F1, and error analysis to find the truth |
-| **Ship, Then Improve** | A deployed model with 88% accuracy teaches more than a perfect model on paper |
-| **Monitor Everything** | Models drift — logging, monitoring, and retraining pipelines are not optional |
-| **Explain The Why** | Stakeholders deserve to understand what the model does and why it makes decisions |
-
-</div>
-
----
-
-## Beyond The Code
-
-<div align="center">
-
-I don't just train models — I **write about them**.
-
-My published research at **ICEAT 2025** came from a simple question: *why do different classifiers fail on the same data?* That curiosity turned into a comparative study, a paper, and an 8% improvement in generalisability.
-
-I also believe in **building in public** — sharing progress, documenting failures, and learning from the community. Every project here started as a small experiment.
-
-**Currently reading:** *Designing Machine Learning Systems* by Chip Huyen
-**Currently curious about:** How RAG architectures will evolve beyond simple retrieval
-
-</div>
-
----
-
-## Current Focus
+## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Advanced LLM Fine-Tuning and Evaluation Techniques
-  - Scalable RAG Architectures for Enterprise Search
-  - MLOps Best Practices and Model Monitoring at Scale
+learning:
+  - Large Language Models (LLMs)
+  - Retrieval-Augmented Generation (RAG)
+  - Vector databases & hybrid retrieval
+  - LLM evaluation & optimization
 
-Building:
-  - Production-grade RAG pipelines for enterprise applications
-  - LLM evaluation workflows with automated benchmarking
-  - End-to-end ML pipelines on AWS (SageMaker, EC2)
+building:
+  - Production-grade RAG knowledge assistants
+  - FastAPI-based AI/ML services
+  - Semantic search systems
 
-Exploring:
-  - Generative AI applications and prompt engineering
-  - Multimodal AI and advanced NLP architectures
-  - Cloud-native ML deployment patterns
+exploring:
+  - Cloud-native AI/ML deployment (AWS, GCP)
+  - Advanced NLP & deep learning techniques
 
-Open To:
-  - AI/ML Engineering roles
-  - NLP and Generative AI positions
-  - MLOps and ML Platform opportunities
-  - International roles (Australia)
-  - Research Collaborations
+open_to:
+  - AI/ML Engineer roles
+  - LLM & RAG architecture collaborations
+  - Open-source AI/ML contributions
+```
+
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></p>
+
+## 📫 Connect
+
+<p align="center">
+  <a href="mailto:hitanshumahajan3@gmail.com"><img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/hitanshu-mahajan"><img src="https://img.shields.io/badge/LinkedIn-412991?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Hitanshu009"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>"Reliable AI isn't built in a notebook — it's built one evaluated, production-tested pipeline at a time."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:412991,100:1a0033&height=120&section=footer" width="100%"/>
