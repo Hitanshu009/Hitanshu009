@@ -8,15 +8,9 @@
 
 <br/>
 
-<a href="#">
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-</a>
-<a href="#">
 <img src="https://img.shields.io/badge/SPPU-Pune-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
-</a>
-<a href="#">
 <img src="https://img.shields.io/badge/India-Pune-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</a>
 
 <br/><br/>
 
@@ -35,9 +29,7 @@
 
 <br/><br/>
 
-<a href="#">
 <img src="https://img.shields.io/badge/Open%20To-Global%20AI%2FML%20Opportunities-4C1D95?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</a>
 
 <br/><br/>
 
@@ -47,87 +39,49 @@
 
 </div>
 
----
+<br/>
 
-# About
+## 🧠 About
 
-I’m an **AI/ML Engineer** focused on designing and building production-oriented software systems powered by **Machine Learning, Deep Learning, Natural Language Processing, Generative AI, and Large Language Models**.
+I'm an **AI/ML Engineer** focused on designing and building production-oriented software systems powered by **Machine Learning, Deep Learning, Natural Language Processing, Generative AI, and Large Language Models**.
 
-My engineering approach combines **software engineering principles, AI/ML system design, backend development, API engineering, data processing, model evaluation, and cloud technologies** to turn machine-learning concepts into practical products.
+My engineering approach combines **software engineering principles, AI/ML system design, backend development, API engineering, data processing, model evaluation, and cloud technologies** to turn machine-learning concepts into practical products — spanning **data preparation, model development, inference, retrieval, evaluation, APIs, deployment, and system optimization**.
 
-I work across the AI application lifecycle — from **data preparation and model development to inference, retrieval, evaluation, APIs, deployment, and system optimization**.
+Current technical interests: **LLM applications, RAG architectures, semantic search, hybrid retrieval, NLP, model evaluation, ML pipelines, FastAPI, REST APIs, and cloud-based AI systems**.
 
-My current technical interests include **LLM applications, RAG architectures, semantic search, hybrid retrieval, NLP, model evaluation, ML pipelines, FastAPI, REST APIs, and cloud-based AI systems**.
-
-### Engineering Mindset
-
-- Build systems that are **reliable, maintainable, measurable, and production-oriented**
+**Engineering Mindset**
+- Build systems that are reliable, maintainable, measurable, and production-oriented
 - Treat AI models as components inside larger software systems
-- Focus on **evaluation, observability, performance, and correctness**
+- Focus on evaluation, observability, performance, and correctness
 - Prefer clean APIs, modular architecture, reproducible pipelines, and scalable design
 - Combine AI research concepts with practical software engineering
 - Continuously improve model quality and system efficiency
 
-### Open To
+**Open To**
+`AI/ML Engineer roles` `Generative AI & LLM Engineering` `NLP & Machine Learning Projects` `RAG & Enterprise Knowledge Systems` `Backend / AI API Engineering` `Cloud-Based AI Applications` `Applied AI/ML Research` `Open-Source Collaboration`
 
-- AI/ML Engineer opportunities
-- Generative AI & LLM engineering
-- NLP and Machine Learning projects
-- RAG and enterprise knowledge systems
-- Backend / AI API engineering
-- Cloud-based AI applications
-- Applied AI/ML research
-- Open-source AI/ML collaboration
-- Global remote and on-site opportunities
+<br/>
 
----
+## 🛠️ Tech Stack
 
-# Tech Stack
-
-### Languages
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,bash&theme=dark" />
-</a>
-
-</div>
-
-### Frontend
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b><br/><br/><img src="https://skillicons.dev/icons?i=python,java,cpp,js,bash&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=html,css,js,react,svelte&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Backend & Databases</b><br/><br/><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mysql,postgres,redis&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Cloud, DevOps & Tooling</b><br/><br/><img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,vscode,jupyter&theme=dark"/></td>
+</tr>
+</table>
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,svelte&theme=dark" />
-</a>
-
-</div>
-
-### Backend & Databases
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mysql,postgres,redis&theme=dark" />
-</a>
-
-</div>
-
-### Cloud, DevOps & Tooling
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,vscode,jupyter&theme=dark" />
-</a>
-
-</div>
-
-### AI / ML Technologies
-
-<div align="center">
-
+<b>AI / ML</b><br/><br/>
 <img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-4C1D95?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-312E81?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -139,9 +93,9 @@ My current technical interests include **LLM applications, RAG architectures, se
 
 </div>
 
----
+<br/>
 
-# AI / ML Expertise
+## 🤖 AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
@@ -158,13 +112,12 @@ My current technical interests include **LLM applications, RAG architectures, se
 | Data Engineering | Intermediate | Pandas, NumPy, SQL, preprocessing and data pipelines |
 | Computer Vision | Intermediate | Facial recognition and image-based ML applications |
 
----
+<br/>
 
-# Featured Projects
+## 🚀 Featured Projects
 
-<details>
+<details open>
 <summary><strong>🧠 Production RAG AI Knowledge Assistant</strong></summary>
-
 <br/>
 
 A production-oriented **Retrieval-Augmented Generation platform** designed to transform enterprise documents into a searchable, citation-aware knowledge system.
@@ -178,33 +131,18 @@ A production-oriented **Retrieval-Augmented Generation platform** designed to tr
 | **Impact** | Grounded AI answers with source-aware responses |
 | **Repository** | [View Repository](https://github.com/Hitanshu009) |
 
-### Engineering Scope
+**Engineering Scope:** document ingestion & preprocessing · intelligent chunking · embedding generation · semantic + hybrid retrieval · reranking · LLM-powered answer generation · source citation & grounding · retrieval/response evaluation · FastAPI backend
 
-- Document ingestion and preprocessing
-- Intelligent document chunking
-- Embedding generation
-- Semantic retrieval
-- Hybrid search architecture
-- Retrieval reranking
-- LLM-powered answer generation
-- Source citation and grounding
-- Retrieval and response evaluation
-- FastAPI backend architecture
-- Production-oriented API design
-
-**Core Engineering Focus:**  
-Reliable retrieval, grounded generation, measurable AI quality, modular backend architecture, and production readiness.
+**Core Focus:** reliable retrieval, grounded generation, measurable AI quality, modular backend architecture, production readiness.
 
 </details>
-
 <br/>
 
 <details>
 <summary><strong>📰 Fake News Detection System</strong></summary>
-
 <br/>
 
-An NLP-based machine-learning system designed to classify news content as **real or fake** using classical machine-learning techniques and measurable evaluation metrics.
+An NLP-based machine-learning system classifying news content as **real or fake** using classical ML techniques and measurable evaluation metrics.
 
 | Attribute | Details |
 |---|---|
@@ -215,28 +153,15 @@ An NLP-based machine-learning system designed to classify news content as **real
 | **Impact** | Automated misinformation classification |
 | **Repository** | [View Repository](https://github.com/Hitanshu009/Fake-News-Detection) |
 
-### Engineering Scope
+**Engineering Scope:** text cleaning · tokenization & normalization · TF-IDF feature extraction · linear-kernel SVM classification · precision/recall/F1 evaluation · end-to-end NLP pipeline
 
-- Text cleaning
-- Tokenization and normalization
-- TF-IDF feature extraction
-- Linear-kernel SVM classification
-- Model evaluation
-- Precision / Recall analysis
-- F1-score measurement
-- End-to-end NLP pipeline development
-
-### Research
-
-The project was developed as an undergraduate research project and presented/published through the **International Conference on Engineering and Advanced Technologies (ICEAT 2025)**.
+**Research:** developed as undergraduate research and presented at the **International Conference on Engineering and Advanced Technologies (ICEAT 2025)**.
 
 </details>
-
 <br/>
 
 <details>
 <summary><strong>🤖 University Query Chatbot</strong></summary>
-
 <br/>
 
 A conversational AI application designed to provide structured responses to common university-related questions.
@@ -250,21 +175,13 @@ A conversational AI application designed to provide structured responses to comm
 | **Impact** | Automated access to frequently requested information |
 | **Repository** | [GitHub Profile](https://github.com/Hitanshu009) |
 
-### Engineering Scope
-
-- Natural-language query processing
-- Intent-oriented response handling
-- Conversational workflow design
-- Structured information retrieval
-- AI-powered user interaction
+**Engineering Scope:** natural-language query processing · intent-oriented response handling · conversational workflow design · structured information retrieval
 
 </details>
-
 <br/>
 
 <details>
 <summary><strong>📷 Facial Recognition Attendance System</strong></summary>
-
 <br/>
 
 An AI-powered attendance solution using facial recognition to automate identity verification and attendance recording.
@@ -278,21 +195,13 @@ An AI-powered attendance solution using facial recognition to automate identity 
 | **Impact** | Reduced manual attendance processing |
 | **Repository** | [GitHub Profile](https://github.com/Hitanshu009) |
 
-### Engineering Scope
-
-- Face detection
-- Facial feature processing
-- Identity recognition
-- Automated attendance recording
-- Computer-vision pipeline development
+**Engineering Scope:** face detection · facial feature processing · identity recognition · automated attendance recording
 
 </details>
-
 <br/>
 
 <details>
 <summary><strong>🎫 CSMVS AI Chatbot & Ticketing Platform</strong></summary>
-
 <br/>
 
 A web-based conversational and ticketing system combining an AI chatbot with backend services and database integration.
@@ -306,32 +215,21 @@ A web-based conversational and ticketing system combining an AI chatbot with bac
 | **Impact** | Conversational support and ticketing automation |
 | **Repository** | [GitHub Profile](https://github.com/Hitanshu009) |
 
-### Engineering Scope
-
-- Flask backend development
-- REST API development
-- PostgreSQL integration
-- SvelteKit frontend
-- Conversational workflow
-- Ticket management
-- Full-stack application integration
+**Engineering Scope:** Flask backend · REST API development · PostgreSQL integration · SvelteKit frontend · ticket management · full-stack integration
 
 </details>
 
----
+<br/>
 
-# Experience
+## 💼 Experience
 
-### AI/ML Engineer — Mid-Size Technology Company
+**AI/ML Engineer** — Mid-Size Technology Company &nbsp;·&nbsp; *2+ Years*
 
-**2+ Years Experience**
+AI/ML engineering experience focused on building practical machine-learning and Generative AI solutions across LLMs, NLP, model development, backend APIs, evaluation, and production-oriented AI systems.
 
-AI/ML engineering experience focused on building practical machine-learning and Generative AI solutions across **LLMs, NLP, model development, backend APIs, evaluation, and production-oriented AI systems**.
-
-#### Scope of Work
-
+**Scope of Work**
 - Developed and integrated machine-learning models for practical business applications
-- Worked on **Generative AI and LLM-powered applications**
+- Worked on Generative AI and LLM-powered applications
 - Designed NLP pipelines for text processing and intelligent information extraction
 - Built AI application backends using Python and REST APIs
 - Worked with model evaluation and performance optimization
@@ -341,91 +239,61 @@ AI/ML engineering experience focused on building practical machine-learning and 
 - Applied software engineering principles to AI/ML systems
 - Worked with cloud technologies and deployment-oriented workflows
 
-#### Core Skills
-
 `Python` `Machine Learning` `NLP` `Generative AI` `LLMs` `RAG` `TensorFlow` `PyTorch` `Scikit-learn` `FastAPI` `REST APIs` `SQL` `AWS` `Git`
 
----
+<br/>
 
-# Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| **ICEAT 2025** | Research publication/presentation related to the Fake News Detection System |
+| **ICEAT 2025** | Research publication/presentation for the Fake News Detection System |
 | **AI/ML Engineering** | 2+ years of hands-on experience across ML, NLP and Generative AI |
 | **Production AI Focus** | Building practical AI systems with APIs, retrieval, evaluation and deployment considerations |
 | **Open Source** | Public AI/ML projects and engineering work available through GitHub |
 
 </div>
 
----
+<br/>
 
-# Certifications
-
-### AWS
+## 📜 Certifications
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/AWS-Cloud%20Computing-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</div>
-
-**Cloud Computing (AWS)** — Upskill, 2024
-
-### Red Hat
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/Red%20Hat-System%20Administration-4C1D95?style=for-the-badge&logo=redhat&logoColor=white"/>
-
-</div>
-
-**Red Hat System Administration** — Red Hat Academy, 2024
-
-### Palo Alto Networks
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/Palo%20Alto%20Networks-Network%20Security-312E81?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
 
 </div>
 
-**Network Security Fundamentals** — Palo Alto Networks, 2024
+| Provider | Certification | Year |
+|---|---|:---:|
+| AWS (Upskill) | Cloud Computing | 2024 |
+| Red Hat Academy | Red Hat System Administration | 2024 |
+| Palo Alto Networks | Network Security Fundamentals | 2024 |
 
----
+<br/>
 
-# Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=A78BFA" height="45"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="45"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white" height="45"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B21B6?style=for-the-badge&logo=codechef&logoColor=white" height="45"/>
-</a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=A78BFA" height="45"/></a>
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="45"/></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white" height="45"/></a>
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B21B6?style=for-the-badge&logo=codechef&logoColor=white" height="45"/></a>
 
 </div>
 
----
+<br/>
 
-# GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hitanshu009&show_icons=true&hide_border=true&bg_color=0D0620&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitanshu009&layout=compact&hide_border=true&bg_color=0D0620&title_color=A78BFA&text_color=E9D5FF&langs_count=8" height="180"/>
 
 <br/><br/>
@@ -434,19 +302,19 @@ AI/ML engineering experience focused on building practical machine-learning and 
 
 </div>
 
----
+<br/>
 
-# GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hitanshu009&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hitanshu009&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="90%"/>
 
 </div>
 
----
+<br/>
 
-# Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -454,19 +322,9 @@ AI/ML engineering experience focused on building practical machine-learning and 
 
 </div>
 
----
+<br/>
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Hitanshu009/Hitanshu009/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%"/>
-
-</div>
-
----
-
-# Current Focus
+## 🎯 Current Focus
 
 ```yaml
 Learning:
@@ -500,4 +358,20 @@ Open To:
   - Backend AI engineering
   - Open-source collaboration
   - Applied AI/ML research
-  - Global remote and on-site opportunities
+```
+
+<br/>
+
+## 📫 Connect
+
+<div align="center">
+
+<a href="mailto:hitanshumahajan3@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/hitanshu-mahajan"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Hitanshu009"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+<p align="center"><i>"Reliable AI isn't built in a notebook — it's built one evaluated, production-tested pipeline at a time."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e1b4b,50:4c1d95,100:0d0620&section=footer" width="100%"/>
